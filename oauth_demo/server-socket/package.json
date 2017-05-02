@@ -2,7 +2,7 @@
   "name": "vuejs-chat",
   "version": "1.0.0",
   "description": "Real-time chat application using NodeJS, VueJS & Socket.io.",
-  "author": "Aaron Welsh <contact@aaron-welsh.co.uk>",
+  "author": "miojo",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
