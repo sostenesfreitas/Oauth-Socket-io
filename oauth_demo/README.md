@@ -14,6 +14,7 @@ $ quasar dev
 # build for production with minification
 $ quasar build
 
-# lint code
-$ quasar lint
+# add cordova
+$ quasar wrap cordova
+
 ```
