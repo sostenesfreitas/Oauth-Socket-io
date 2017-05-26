@@ -1,8 +1,4 @@
-/*/*
- * @description Real-time chat application using NodeJS, VueJS & Socket.io. This is the main file that we run with NodeJS.
- * @author Aaron Welsh <contact@aaron-welsh.co.uk>
- *
- */
+
 const express   = require("express");
 const app       = express();
 const morgan    = require('morgan');
